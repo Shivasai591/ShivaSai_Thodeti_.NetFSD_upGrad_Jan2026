@@ -1,5 +1,20 @@
 # E-Learning Platform (Frontend)
 
+📁 Project Structure
+├── courses.html
+├── dashboard.html
+├── profile.html
+├── quiz.html
+├── css/
+│   └── styles.css
+├── js/
+│   ├── courses.js
+│   ├── quiz.js
+│   └── storage.js
+├── tests/
+│   └── quiz.test.js
+├── package.json
+
 ## Project Overview
 This is a multi-page E-Learning platform built using HTML, CSS, Bootstrap, and JavaScript.
 
