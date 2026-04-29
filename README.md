@@ -41,3 +41,104 @@ This is a multi-page E-Learning platform built using HTML, CSS, Bootstrap, and J
 
 ## Author
 Shivasai Thodeti
+
+
+
+#  E-Learning Platform (.NET Full Stack Project)
+
+##  Overview
+
+This project is a **full-stack E-Learning Platform** developed using **.NET (C#)** for the backend and **HTML, CSS, JavaScript** for the frontend.
+It allows users to browse courses, take quizzes, and track their progress.
+
+---
+
+##  Features
+
+*  Course listing and management
+*  Quiz and assessment system
+*  Dashboard for user progress
+*  Backend API using .NET
+*  Database integration with Entity Framework
+*  Clean architecture (Controllers, Models, Services)
+
+---
+
+##  Technologies Used
+
+###  Backend
+
+* C#
+* .NET Core / ASP.NET
+* Entity Framework
+* SQL Database
+
+###  Frontend
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 📂 Project Structure
+
+```
+ElearningPlatform/
+│
+├── Controllers/        # API Controllers
+├── Models/             # Data models
+├── Services/           # Business logic
+├── Data/               # Database context
+├── Migrations/         # EF migrations
+├── Properties/
+│
+├── css/                # Stylesheets
+├── js/                 # JavaScript files
+├── *.html              # Frontend pages
+│
+├── Program.cs          # Entry point
+├── appsettings.json    # Configuration
+├── ElearningPlatform.csproj
+```
+
+---
+
+##  How to Run the Project
+
+###  Backend
+
+1. Open project in Visual Studio
+2. Restore dependencies
+3. Run the application
+
+###  Frontend
+
+* Open HTML files in browser
+  OR
+* Connect frontend with backend API
+
+---
+
+##  Key Learnings
+
+* Full-stack development using .NET
+* API creation and integration
+* Database handling with Entity Framework
+* Git & GitHub version control
+* Project structuring and debugging
+
+---
+
+##  Author
+
+ShivaSai Thodeti
+
+---
+
+##  Conclusion
+
+This project demonstrates a complete **end-to-end full-stack application**, combining backend API development with frontend UI.
+
+---
+
