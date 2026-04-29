@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ElearningPlatform.Tests/ElearningPlatform.Tests.csproj" Id="3c0a1fa6-ff9b-4119-8597-1c317ca8e8a1" />
+  <Project Path="ElearningPlatform.csproj" />
+</Solution>
