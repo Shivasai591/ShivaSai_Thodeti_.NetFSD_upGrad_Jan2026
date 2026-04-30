@@ -1,0 +1,4 @@
+ticket_id,employee,dept,issue,category,priority,status,created
+012ca46f,vinay,Banking,laptop,Laptop,P3,Open,2026-04-27 20:14:26
+357a4daf,Shivasai,IT,laptop,laptop,P3,In Progress,2026-04-29 12:29:44
+60228175,System,IT,high network usage,Server Down,P1,Open,2026-04-29 12:33:07

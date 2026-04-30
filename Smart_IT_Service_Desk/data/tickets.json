@@ -1,0 +1,32 @@
+[
+    {
+        "ticket_id": "012ca46f",
+        "employee": "vinay",
+        "dept": "Banking",
+        "issue": "laptop",
+        "category": "Laptop",
+        "priority": "P3",
+        "status": "Open",
+        "created": "2026-04-27 20:14:26"
+    },
+    {
+        "ticket_id": "357a4daf",
+        "employee": "Shivasai",
+        "dept": "IT",
+        "issue": "laptop",
+        "category": "laptop",
+        "priority": "P3",
+        "status": "In Progress",
+        "created": "2026-04-29 12:29:44"
+    },
+    {
+        "ticket_id": "60228175",
+        "employee": "System",
+        "dept": "IT",
+        "issue": "high network usage",
+        "category": "Server Down",
+        "priority": "P1",
+        "status": "Open",
+        "created": "2026-04-29 12:33:07"
+    }
+]
