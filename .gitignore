@@ -4,3 +4,15 @@ obj/
 *.user
 *.suo
 *.cache
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
